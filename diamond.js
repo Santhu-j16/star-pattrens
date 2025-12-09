@@ -10,4 +10,4 @@ for (let i = n -1; i >= 1; i--) {
   pattern += " ".repeat(n - i) +"*".repeat(2 * i - 1) + "\n";
 }
 
-console.log(pattern);
+console.log(pattern)
