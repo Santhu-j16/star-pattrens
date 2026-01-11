@@ -1,5 +1,5 @@
 const n = 8; 
-let pattern = "";
+let pattern = " ";
 
 for (let i = 1; i <= n; i++) {
   pattern += " ".repeat(n - i) + "*".repeat(2 * i - 1) +"\n";
