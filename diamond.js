@@ -1,4 +1,4 @@
-const n =  8; 
+const n =8; 
 let pattern = " ";
 
 for (let i = 1; i <= n; i++) {
